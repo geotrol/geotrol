@@ -1,0 +1,6 @@
+{
+  "name": "Geotech Precision Inc.",
+  "description": "Modern CNC Machining Montreal - High-precision manufactured metal and plastic components, Swiss turning, prototyping, and large-scale fabrication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
